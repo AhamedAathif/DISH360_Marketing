@@ -42,7 +42,7 @@ function Features() {
         <div className="mt-20 text-center">
           <div className="mb-8">
             <img 
-              src="../src/Assets/coming soon.jpg" 
+              src="../src/public/image/coming soon.jpg" 
               alt="DISH360 App Preview" 
               className="mx-auto max-w-2xl w-full h-auto rounded-2xl shadow-2xl"
             />

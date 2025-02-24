@@ -5,37 +5,37 @@ function Team() {
     {
       name: "Ahamed Aathif",
       role: "Co-Founder / Team Leader",
-      image: "../src/Assets/Athif.png",
+      image: "../src/public/image/Athif.png",
       linkedin: "https://www.linkedin.com/in/ahamed-aathif-24674a305/"
     },
     {
       name: "Ammar Aflal",
       role: "Co-Founder",
-      image: "../src/Assets/Ammar.png",
+      image: "../src/public/image/Ammar.png",
       linkedin: "https://www.linkedin.com/in/ammar-aflal/"
     },
     {
       name: "Mohamed Shahmy",
       role: "Co-Founder",
-      image: "../src/Assets/shahmy.png",
+      image: "../src/public/image/shahmy.png",
       linkedin: "https://linkedin.com"
     },
     {
       name: "Agaran Ashokkumar",
       role: "Co-Founder",
-      image: "../src/Assets/Agaran.png",
+      image: "../src/public/image/Agaran.png",
       linkedin: "https://linkedin.com"
     },
     {
       name: "Mohomed Usmaan",
       role: "Co-Founder",
-      image: "../src/Assets/Usman.png",
+      image: "../src/public/image/Usman.png",
       linkedin: "https://www.linkedin.com/in/mohomed-usman-118078298/"
     },
     {
       name: "Subashitha Watthepitiya",
       role: "Co-Founder",
-      image: "../src/Assets/blank.png",
+      image: "../src/public/image/blank.png",
       linkedin: "https://linkedin.com"
     }
   ];

@@ -4,8 +4,8 @@ function Slideshow() {
   const [currentSlide, setCurrentSlide] = useState(0);
   
   const slides = [
-    "../src/Assets/Group 68.png",
-    "../src/Assets/Group 69.png",
+    "../src/public/image/Group 68.png",
+    "../src/public/image/Group 69.png",
   ];
 
   useEffect(() => {
